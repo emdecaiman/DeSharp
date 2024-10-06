@@ -37,9 +37,9 @@ function Home() {
                   <div className="introText">
                     <p>Over recent years, Vancouver has experienced a sharp increase in substance abuse,
                         leading to a drug epidemic. Many have found the streets unsafe due to the presence of needles.
-                        We have partnered with some company to help clean the streets. There is no one better to help locate these
+                        We have partnered with PHS Community Services Society to help clean the streets. There is no one better to help locate these
                         needles than those that walk on the streets. With your help, we wll be able to restore a clean and safe
-                        environment for our city
+                        environment for our city.
                     </p>
                   </div>
                 </div>
