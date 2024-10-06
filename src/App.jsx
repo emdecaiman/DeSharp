@@ -1,5 +1,4 @@
 import "./App.css";
-import Form from "./components/Form.jsx";
 import Admin from "./Admin.jsx";
 import Home from "./Home.jsx";
 
@@ -10,8 +9,7 @@ function App() {
     <div>
       <Router>
               <Routes>
-
-                <Route path="/" element={<Home />} />
+                <Route index element={<Home />} />
                 <Route path="/home" element={<Home />} />
                 <Route path="/admin" element={<Admin />} />
               </Routes>

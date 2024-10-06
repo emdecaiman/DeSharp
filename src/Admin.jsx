@@ -3,7 +3,7 @@ import PoiMarkers from "./components/PoiMarkers.jsx";
 import Header from "./components/Header.jsx";
 import { useMutation, useQuery } from "convex/react";
 import { api } from "../convex/_generated/api.js";
-import { APIProvider, Map, InfoWindow, Marker } from "@vis.gl/react-google-maps";
+import { APIProvider, Map, InfoWindow } from "@vis.gl/react-google-maps";
 import { useState } from "react";
 
 
