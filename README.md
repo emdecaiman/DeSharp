@@ -6,6 +6,10 @@ Deployed using Vercel
 
 [de-sharp.vercel.app](https://de-sharp.vercel.app/)
 
+Devpost
+
+[devpost.com/software/desharp](https://devpost.com/software/desharp)
+
 ## About
 
 Striving for a safer Vancouver, we wanted to create a solution that will help tackle the ongoing opioid situation in Vancouver. A key part of this is the leftover needles discarded on the ground, which pose a significant danger to anybody around them. This is why we came together and created DeSharp: a tool to help significantly decrease the number of needles lying around.
